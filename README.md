@@ -1,2 +1,5 @@
 # Extended-Transformer-Construction
-Extended Transformer Construction}{Implemented a transformer architecture to get good performance when we scale the input length and to encode structured inputs.
+A transformer architecture for encoding long and structured inputs.
+
+References:
+  * [ETC: Encoding Long and Structured Inputs in Transformers](https://arxiv.org/abs/2004.08483)
